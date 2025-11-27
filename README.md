@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ssuperchill
-- 👀 I’m interested in back end programming
+- 👀 I’m interested in front end programming
 - 🌱 I’m currently learning on pancasila university
 - 💞️ I’m looking to collaborate on my journey
 - 📫 How to reach me acilass_ on instagram
